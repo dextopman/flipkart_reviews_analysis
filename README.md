@@ -3,7 +3,7 @@ To analyse the data of the reviews and ratings user gives on Flipkart to make ot
 
 The aim of the project is to predict whether the reviews given are positive or negative,
 
-Libraries we will be using
+## Libraries we will be using
 
 1. Pandas : for importing the data.
 
@@ -17,7 +17,7 @@ Libraries we will be using
 
 6.Seaborn : For data visualization
 
-Steps:
+## Steps:
 * Importing necessary libraries
 * Importing NLTK library for importing stopwords
 * Preprocessing and cleaning the review
